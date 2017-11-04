@@ -3,7 +3,7 @@ Forked from LINEALPHA [MerkKremont]
 
 fixing some error and delete unusable code 
 
-## Require to install
+## 安裝及使用
 ```
 pkg install python2 -y
 pkg install git -y
